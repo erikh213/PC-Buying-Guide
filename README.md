@@ -60,7 +60,7 @@ The power supply unit is not the most sexy component of a PC build, but a needed
 
 ![PC Case](https://i.pcmag.com/imagery/roundups/05hdyk7k8eQlymJjfyeSfwC-52..v1650497639.jpg)
 
-Choose a case that accommodates your components and provides good airflow. Keep in mind that the size of the case must correspond to the size of your motherboard. Popular brands include NZXT, Fractal Design, and Phanteks. 
+Choose a case that accommodates your components and provides good airflow, keeping in mind that the size of the case must correspond to the size of your motherboard. Make sure you choose a case that has good room in the back for cable management. If you ever need to change the parts in your PC in the future, you'll thank yourself that you took the time to make those cables nice and tidy. Popular brands include NZXT, Fractal Design, and Phanteks. 
 
 *Recommended Product: [NZXT H510 Compact ATX Mid-Tower Case](https://pcpartpicker.com/product/6Cyqqs/nzxt-h510-atx-mid-tower-case-ca-h510b-w1) (~$70)
 
@@ -68,14 +68,15 @@ Choose a case that accommodates your components and provides good airflow. Keep 
 
 ![Cooling](https://images.anandtech.com/doci/14621/NOCTUA_NH-U12A_Car_678x452.jpg)
 
-Consider additional cooling for your CPU and GPU to maintain optimal temperatures. Air coolers and liquid coolers are available from brands like Noctua, be quiet!, and Corsair.
+Consider additional cooling for your CPU and GPU to maintain optimal temperatures. Air coolers and liquid coolers are available from brands like Noctua, be quiet!, and Corsair. I would recommend the air coolers from noctua, as they are top of the line in cooling and are unbelievably quiet. They are a little on the pricy side, but definitely don't go cheap here. If you are building a powerful PC, especially if it's in a smaller form factor case, temperatures could end up bottlenecking your entire system. It's best to stay cool my friend.
 
 *Recommended Product: [Noctua NH-D15S, Premium Dual-Tower CPU Cooler](https://pcpartpicker.com/product/4vzv6h/noctua-cpu-cooler-nhd15s) (~$80)
 
 ## Conclusion
 
 Thanks for tuning in to my PC parts guide! By selecting quality components based on your needs, you're on your way to building a powerful gaming PC. The next step is to save up, purchase the parts that fit your budget, and get to work building! For step-by-step assembly instructions, refer to online resources, such as:
-- [PC Building Guide]([https://www.youtube.com/watch?v=example_link](https://www.youtube.com/watch?v=BL4DCEp7blY)https://www.youtube.com/watch?v=BL4DCEp7blY).
+- [PC Building Guide](https://www.youtube.com/watch?v=BL4DCEp7blY)
+    - Linus from Linus Tech Tips is one of the best YouTubers in the tech space in my opinion. He makes difficult concepts extremely easy to understand, and he shows that in this full tutorial on how to build your first PC. Refer to this video and others once you have gathered all of your parts. There is no such thing as overpreparing.
 - [PC Part Picker](www.pcpartpicker.com)
     - This is the best website for choosing your PC parts, as it has the prices of each part from all of the major retailers so you can find the best deals. It also will notify you if one of your selected parts will not work with the others. Whether the motherboard is too big for the case, or the CPU won't fit in the motherboard socket, PC Part Picker will do the hard work of finding this out for you. You can also gain some inspiration from other PC builders, and see some of the most popular builds.
 
